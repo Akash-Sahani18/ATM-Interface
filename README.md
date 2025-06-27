@@ -17,9 +17,9 @@ README.md
 
 ## 🛠️ Technologies Used
 
-Java (JDK 8+)<br>
-Scanner class for user input<br>
-Command Line Interface (CLI)
+- Java (JDK 8+)<br>
+- Scanner class for user input<br>
+- Command Line Interface (CLI)
 
 
 ## 🚀 How to Run
@@ -38,13 +38,12 @@ javac ATMmachine.java
 java ATMmachine
 ```
 ## 🔐 Default Credentials
-**PIN: 8980**
-```text
-For demo purposes only!!
-In a real-world system, credentials and balances would be securely stored.
-```
-## 💡 Sample Output
-**Enter the PIN: 8980**
+**PIN: 1234**  
+**For demo purposes only!!**  
+**In a real-world system, credentials and balances would be securely stored.**
+## 💡 Sample Output  
+**Enter the PIN: 1234**  
+
 **----- ATM Menu -----**
 
 1. **Check Balance**
@@ -54,22 +53,21 @@ In a real-world system, credentials and balances would be securely stored.
 Choose an option: 
 
 ## 📘 Concepts Covered
-Object-Oriented Programming
-Conditionals & Loops
-Input Handling
-Encapsulation (basic level)
-Menu-driven programming logic
+- Object-Oriented Programming
+- Conditionals & Loops
+- Input Handling
+- Encapsulation (basic level)
+- Menu-driven programming logic
 
 ## 📈 Future Enhancements (Optional Ideas)
-🔄 Support for multiple users
-🔐 PIN retry mechanism
-💾 File-based or database storage for user data
-📊 Mini-statement feature
+🔄 Support for multiple users  
+🔐 PIN retry mechanism  
+💾 File-based or database storage for user data  
+📊 Mini-statement feature  
 🖼️ GUI version using JavaFX or Swing
 
 ## 👨‍💻 Author
-*Akash Sahani*
-
+*Akash Sahani*  
 📫 [GitHub](https://github.com/Akash-Sahani18) | [LinkedIn](https://www.linkedin.com/in/akash-sahani-440147243)
 
 
