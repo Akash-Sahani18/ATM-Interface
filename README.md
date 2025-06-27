@@ -39,6 +39,7 @@ java ATMmachine
 ```
 ## 🔐 Default Credentials
 **PIN: 1234**  
+
 **For demo purposes only!!**  
 **In a real-world system, credentials and balances would be securely stored.**
 ## 💡 Sample Output  
@@ -49,7 +50,7 @@ java ATMmachine
 1. **Check Balance**
 2. **Withdraw**
 3. **Deposit**
-4. **EXIT**
+4. **EXIT**  
 Choose an option: 
 
 ## 📘 Concepts Covered
